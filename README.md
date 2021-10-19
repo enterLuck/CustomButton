@@ -1,2 +1,2 @@
 # CustomButton
-Custom React Button Component with hover features and Saas Styling
+Custom React Button Component using Material UI and Saas Styling
